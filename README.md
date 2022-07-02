@@ -26,7 +26,7 @@
 <p align="left">
 <a href="https://twitter.com/fahimahmedafran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahimahmedafran" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/fahim-ahmed-a43579234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fahim-ahmed-a43579234/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/afran_rafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="afran_rafi" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18220842/afran-rafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="afran_rafi" height="30" width="40" /></a>
 <a href="https://www.facebook.com/afran.rafi.520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/afran.rafi.520" height="30" width="40" /></a>
 <a href="https://instagram.com/programmer_afran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afran_rafiiii" height="30" width="40" /></a>
 </p>
