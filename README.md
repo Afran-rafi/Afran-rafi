@@ -3,6 +3,9 @@
 <img src='https://i.ibb.co/0mddBQp/Linked-Profile.gif' width="100%" alt='github'>
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+Passionate+Full+Stack+Developer!!;A+Passionate+JavaScript+Developer!!;A+Passionate+Mern+Stack+Developer!!)](https://git.io/typing-svg)
+
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 A highly skilled developer with strong confidence with high quality and high-performance web applications seeks
 the rules of junior Software Developer at Javascript, React, Node, and modern Javascript libraries
 
@@ -10,7 +13,7 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 - 👯 I’m looking to collaborate on Github
 - 📫 How to reach me: programming.fahim@gmail.com
 
-## Feel free to visit my world
+## Feel free to visit Feel free to visit my world
 
 <a href="https://twitter.com/fahimahmedafran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fahimahmedafran" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/fahim-ahmed-a43579234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fahim-ahmed-a43579234/" height="30" width="40" /></a>
