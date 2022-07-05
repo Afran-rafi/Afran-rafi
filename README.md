@@ -1,6 +1,5 @@
 #### Profile Visitor
 ![Profile views](https://gpvc.arturio.dev/Afran-rafi)
-<img src='https://i.ibb.co/0mddBQp/Linked-Profile.gif' width="100%" alt='github'>
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+Passionate+Full+Stack+Developer!!;A+Passionate+JavaScript+Developer!!;A+Passionate+Mern+Stack+Developer!!)](https://git.io/typing-svg)
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
