@@ -24,7 +24,7 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 
 ## I am still Learning these programming languages!!
 
-## Summaries of my skills
+## Summaries of my skills!!
 
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
@@ -32,5 +32,7 @@ the rules of junior Software Developer at Javascript, React, Node, and modern Ja
 ![Fahim Ahmed GitHub stats](https://github-readme-stats.vercel.app/api?username=Afran-rafi&show_icons=true&theme=radical)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Afran-rafi&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)
 [![github activity graph](https://activity-graph.herokuapp.com/graph?username=Afran-rafi&theme=xcode)](https://github.com/Afran-rafi/github-readme-activity-graph)
+
+## Github Metrics!!
 ![GitHub metrics](https://metrics.lecoq.io/AFran-rafi)
 
