@@ -6,7 +6,7 @@
 A highly skilled developer with strong confidence with high quality and high-performance web applications seeks
 the rules of junior Software Developer at Javascript, React, Node, and modern Javascript libraries
 
-- 🌱 I’m currently learning Javascript, React, MERN Stack.
+- 🌱 I’m currently learning Javascript, React, MERN Stack, Java and Python!!.
 - 👯 I’m looking to collaborate on Github
 - 📫 How to reach me: programming.fahim@gmail.com
 
